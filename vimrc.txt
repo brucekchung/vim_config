@@ -1,5 +1,3 @@
-# vim_config
-
 
 execute pathogen#infect()
   
